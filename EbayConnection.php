@@ -1,3 +1,4 @@
+<?php
 class EbayConnection {
 
 	private $auth = null;
